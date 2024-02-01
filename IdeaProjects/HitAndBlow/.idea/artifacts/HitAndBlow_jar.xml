@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HitAndBlow:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HitAndBlow_jar</output-path>
+    <root id="archive" name="HitAndBlow.jar">
+      <element id="module-output" name="HitAndBlow" />
+    </root>
+  </artifact>
+</component>

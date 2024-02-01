@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="HitAndBlow">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/HitAndBlow/out/artifacts/HitAndBlow_jar/HitAndBlow.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

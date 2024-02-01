@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="IdeaProjects">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/CSVFileViewer.zip!/" />
+      <root url="jar://$PROJECT_DIR$/AichiTouristSpot.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

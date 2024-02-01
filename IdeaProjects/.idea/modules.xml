@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AichiTouristSpot/AichiTouristSpot.iml" filepath="$PROJECT_DIR$/AichiTouristSpot/AichiTouristSpot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSVFileViewer/CSVFileViewer.iml" filepath="$PROJECT_DIR$/CSVFileViewer/CSVFileViewer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HitAndBlow/HitAndBlow.iml" filepath="$PROJECT_DIR$/HitAndBlow/HitAndBlow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects.iml" filepath="$PROJECT_DIR$/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleRPG/SimpleRPG.iml" filepath="$PROJECT_DIR$/SimpleRPG/SimpleRPG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleRPG.07/SimpleRPG.07.iml" filepath="$PROJECT_DIR$/SimpleRPG.07/SimpleRPG.07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleRPGkadai/SimpleRPGkadai.iml" filepath="$PROJECT_DIR$/SimpleRPGkadai/SimpleRPGkadai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudentsGradeManager/StudentsGradeManager.iml" filepath="$PROJECT_DIR$/StudentsGradeManager/StudentsGradeManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kadai.08/kadai.08.iml" filepath="$PROJECT_DIR$/kadai.08/kadai.08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kadai04/kadai04.iml" filepath="$PROJECT_DIR$/kadai04/kadai04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop1_10kadai/oop1_10kadai.iml" filepath="$PROJECT_DIR$/oop1_10kadai/oop1_10kadai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop1_2kadai/oop1_2kadai.iml" filepath="$PROJECT_DIR$/oop1_2kadai/oop1_2kadai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop1_3/oop1_3.iml" filepath="$PROJECT_DIR$/oop1_3/oop1_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop1_3kadai/oop1_3kadai.iml" filepath="$PROJECT_DIR$/oop1_3kadai/oop1_3kadai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop1_4/oop1_4.iml" filepath="$PROJECT_DIR$/oop1_4/oop1_4.iml" />
+    </modules>
+  </component>
+</project>
